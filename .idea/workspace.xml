@@ -2,22 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e1ee349-6652-4ccd-bc1a-b1ad662c5450" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/OOP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DIRECTIONs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DWNLD.py" beforeDir="false" afterPath="$PROJECT_DIR$/DWNLD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HDIVISR.py" beforeDir="false" afterPath="$PROJECT_DIR$/HDIVISR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAZYCHF.py" beforeDir="false" afterPath="$PROJECT_DIR$/LAZYCHF.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MDL.py" beforeDir="false" afterPath="$PROJECT_DIR$/MDL.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RPD.py" beforeDir="false" afterPath="$PROJECT_DIR$/RPD.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/STUDENTmARKS.py" beforeDir="false" afterPath="$PROJECT_DIR$/STUDENTmARKS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Swap2Num.py" beforeDir="false" afterPath="$PROJECT_DIR$/Swap2Num.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/T20MCH.py" beforeDir="false" afterPath="$PROJECT_DIR$/T20MCH.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VALIDPAIR.py" beforeDir="false" afterPath="$PROJECT_DIR$/VALIDPAIR.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VILTRIBE.py" beforeDir="false" afterPath="$PROJECT_DIR$/VILTRIBE.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stdmarks.py" beforeDir="false" afterPath="$PROJECT_DIR$/stdmarks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DIRECTIONs.py" beforeDir="false" afterPath="$PROJECT_DIR$/DIRECTIONs.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
