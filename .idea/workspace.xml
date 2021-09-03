@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e1ee349-6652-4ccd-bc1a-b1ad662c5450" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BMI_TKINTER.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Canvas tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Find and Replace.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tkinter_calc.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DIRECTIONs.py" beforeDir="false" afterPath="$PROJECT_DIR$/DIRECTIONs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tkinter_calc.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter_calc.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Python.BMI_TKINTER">
+  <component name="RunManager" selected="Python.Tkinter_calc">
     <configuration name="BMI_TKINTER" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,9 +149,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tkinter_calc" />
         <item itemvalue="Python.BMI_TKINTER" />
         <item itemvalue="Python.Find and Replace" />
-        <item itemvalue="Python.Tkinter_calc" />
         <item itemvalue="Python.Canvas tkinter" />
         <item itemvalue="Python.DIRECTIONs" />
       </list>
@@ -186,5 +182,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Tkinter_calc.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
